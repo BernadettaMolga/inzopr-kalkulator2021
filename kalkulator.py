@@ -1,0 +1,2 @@
+def dodaj():
+    pass
